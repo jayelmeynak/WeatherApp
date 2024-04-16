@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hours">По часам</string>
+    <string name="days">По дням</string>
+    <string name="app_name">Погода</string>
+    <string name="empty">Пусто</string>
+    <string name="enable_location">Включить геолокацию?</string>
+    <string name="city_name">Название города</string>
+    <string name="enter_city">Введите название города</string>
+    <string name="yes">ОК</string>
+    <string name="no">НАЗАД</string>
+</resources>

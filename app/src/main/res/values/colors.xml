@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="card_blue_bg">#6603A9F4</color>
+    <color name="card_new_bg">#80F3D2DF</color>
+    <color name="app_icon">#F3D2DF</color>
+    <color name="green">#A180F3D2</color>
+</resources>

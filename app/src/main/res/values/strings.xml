@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hours">Hours</string>
+    <string name="days">Days</string>
+    <string name="empty">Empty</string>
+    <string name="enable_location">Enable location?</string>
+    <string name="city_name">City name</string>
+    <string name="enter_city">Enter name city</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+</resources>
